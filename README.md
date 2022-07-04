@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/FinnRG/FinnRG/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/FinnRG/FinnRG/output/snake.svg" alt="Snake animation" />
 
 ###
